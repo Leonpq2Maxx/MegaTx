@@ -22,7 +22,7 @@ function showMoreGenres() {
 
 // Funciones para navegación en el menú
 function goHome() {
-    alert('Navegando a Home');
+    alert('https://leonpq2maxx.github.io/MegaTx/');
 }
 
 function goMovies() {
