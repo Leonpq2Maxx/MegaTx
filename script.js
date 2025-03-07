@@ -30,5 +30,5 @@ function goMovies() {
 }
 
 function goSeries() {
-    alert('Navegando a Series');
+    alert('Index.html');
 }
