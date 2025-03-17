@@ -110,3 +110,23 @@ video {
     margin: 10px;
     padding: 0 10px;
 }
+
+/* Diseño responsive */
+@media (max-width: 600px) {
+    /* Iconos debajo del reproductor */
+    .icons-container {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin: 5px 0;
+    }
+
+    .icons-container i {
+        font-size: 15px;
+        cursor: pointer;
+    }
+
+    .icons-container i:hover {
+        color: yellow;
+    }
+}
